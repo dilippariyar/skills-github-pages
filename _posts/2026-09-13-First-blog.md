@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "first-blog"
 date: 2026-09-13
 ---
